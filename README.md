@@ -23,7 +23,7 @@ Keeping it simple, no big words! 🛡️
 
 ## Installation and Execution💡
 
-*download the repository as a zip file
-*Unzip the repository using winrar/7zip
-*Open the index.html file in your desired browser.
-*Your game should open in a new window!
+* download the repository as a zip file
+* Unzip the repository using winrar/7zip
+* Open the index.html file in your desired browser.
+* Your game should open in a new window!
