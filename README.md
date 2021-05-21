@@ -1,7 +1,7 @@
 # Drum-kit
 
 ## Background 📖
-Self made project that I found exciting and quirky.
+Self made project that I found exciting and quirky using JavaScript. 
 
 ## About 🧰
 ### How?
